@@ -1,0 +1,5 @@
+Purpose of Creating this repository:
+ To get over and quickly follow the book “Hands on Programming in R” 
+
+The link to the book can be found here:
+https://rstudio-education.github.io/hopr/
